@@ -1,0 +1,12 @@
+{
+  "name": "client-template-aws",
+  "description": "",
+  "env": {},
+  "formation": {},
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
